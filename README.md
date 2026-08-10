@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I'm Manuel :D
 
-<!--
-**ManusolJ/ManusolJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior full stack developer from Alicante, Spain.
+Java · Spring Boot · Angular · TypeScript · PostgreSQL · Docker
 
-Here are some ideas to get you started:
+I like building things end to end - including the server they run on.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[PokéTeam Builder](https://pokemon-team-builder.com)** - competitive Pokémon
+team builder. Spring Boot API and Angular SPA, self-hosted on my own Linux
+server with Docker and automated deployment.
+· [backend](https://github.com/ManusolJ/pokemon-backend)
+· [frontend](https://github.com/ManusolJ/pokemon-frontend)
+
+**[Necobot](https://github.com/ManusolJ/Necobot)** - Discord bot in TypeScript
+and my testbed for anything I want to try, currently a locally hosted LLM.
+
+ manusolerj@gmail.com · [LinkedIn](https://linkedin.com/in/manusolerj)
