@@ -5,7 +5,7 @@ Java · Spring Boot · Angular · TypeScript · PostgreSQL · Docker
 
 I like building things end to end - including the server they run on.
 
-**[PokéTeam Builder](https://pokemon-team-builder.com)** - competitive Pokémon
+**[PokeTeam Builder](https://pokemon-team-builder.com)** - competitive Pokémon
 team builder. Spring Boot API and Angular SPA, self-hosted on my own Linux
 server with Docker and automated deployment.
 · [backend](https://github.com/ManusolJ/pokemon-backend)
